@@ -1,0 +1,134 @@
+.grid-item {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			grid-gap: 0px;
+		}
+
+.grid-item p{
+	font-size: 40px;
+}
+	.Heading {
+			color: #1c4980;
+			font-size: 30px;
+			font-family: monospace;
+		}
+
+
+	.heading hr {
+
+		border-style: dashed;
+		border-color: #F2C034;
+		}
+
+.para01 {
+	font-size: 20px;
+	color: #1c4980;
+}
+	.img1 p{
+		font-size: 40px;
+	}
+
+	.img2 p{
+		font-size: 40px;
+	}
+
+	.img3 p{
+		font-size: 40px;
+	}
+
+	.img4 p{
+		font-size: 40px;
+	}
+
+	.img5 p{
+		font-size: 40px;
+	}
+
+	.img6 p{
+		font-size: 40px;
+	}
+
+.Partners {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	grid-gap: 20px;
+
+}
+
+h3 {
+	font-weight: 600;
+    font-size: 45px;
+    color: #1c4980;
+    display: block;
+    padding: 0 15px 15px;
+}
+
+.imgb {
+	outline-color: grey;
+	outline-style: outset;
+}
+
+.Ads {
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	overflow: scroll;
+
+}
+
+.Ads01 {
+	width: 100%;
+}
+
+.grid02 {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 10px;
+}
+
+.statistics{
+	font-size: 1.5rem;
+	border-style: solid;
+
+}
+
+
+.entry01{
+	border-style: solid;
+	padding-left: 20px;
+	padding-right: 300px;
+}
+.entry02{
+	border-style: solid;
+	padding-left: 20px;
+	padding-right: 300px;
+}
+.entry03{
+	border-style: solid;
+	padding-left: 20px;
+	padding-right: 300px;
+}
+.entry04{
+	border-style: solid;
+	padding-left: 20px;
+
+}
+.entry05{
+	border-style: solid;
+	padding-left: 20px;
+}
+.entry06{
+	border-style: solid;
+	padding-left: 20px;
+}
+
+.table-para{
+	font-size: 0.7rem;
+}
+
+.last-entry{
+	width: 100%;
+}
+
+.store{
+	width: 15rem;
+}
